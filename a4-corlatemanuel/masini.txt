@@ -1,0 +1,4 @@
+Masina,2,BMW,X5
+Masina,4,Mercedes,C-Class
+Masina,5,Ford,Focus
+Masina,6,Lamborghini,Diablo
